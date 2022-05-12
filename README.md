@@ -3,4 +3,4 @@ Challenge de ciência de dados da Alura, utilizando dados de uma operadora fict�
 #alurachallengedatascience1
 
 Primeira versão:  10/05/22 às 17h
-Revisão 1: Incluída a coluna de Pagamentos diários na posição 18 do DataFrame dados. 11/05/22 às 11:18.
+Revisão 1: Incluída a coluna de Pagamentos diários na posição 18 do DataFrame dados. 11/05/22.
