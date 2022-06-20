@@ -30,5 +30,5 @@ Na terceira semana, entrei na área de Machine Learning, avaliando e aplicando o
 Essa foi a etapa de conclusão do projeto onde pude validar as hipóteses e sugerir ações para redução da taxa de evasão de clientes.<p>
 Todas as atividades executadas estão documentadas no notebook.<hr>
 
-### Badge de conclusão do projeto:
-<a href="https://imgur.com/rvbXegn"><img src="https://i.imgur.com/rvbXegn.png" title="source: imgur.com" width="120" height="120"/></a>
+#### BADGE DE CONCLUSÃO DO PROJETO
+<a href="https://imgur.com/rvbXegn"><img src="https://i.imgur.com/rvbXegn.png" title="source: imgur.com" width="140" height="140"/></a>
