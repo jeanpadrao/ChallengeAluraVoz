@@ -1,4 +1,3 @@
-
 ![logo](https://user-images.githubusercontent.com/88718731/174648777-26dfe378-6237-4aed-84ae-36fa136133ef.png)
 
 Esse é meu projeto do Challenge de Data Science promovido pela Alura, em maio de 2022.
@@ -29,4 +28,7 @@ Todas as atividades executadas estão documentadas no notebook.<hr>
 
 Na terceira semana, entrei na área de Machine Learning, avaliando e aplicando o balanceamento na variável target, aplicando 3 modelos de Machine Learning, escolhendo e otimizando o melhor modelo.<p>
 Essa foi a etapa de conclusão do projeto onde pude validar as hipóteses e sugerir ações para redução da taxa de evasão de clientes.<p>
-Todas as atividades executadas estão documentadas no notebook.  
+Todas as atividades executadas estão documentadas no notebook.<hr>
+
+### Badge de conclusão do projeto:
+<a href="https://imgur.com/rvbXegn"><img src="https://i.imgur.com/rvbXegn.png" title="source: imgur.com" width="120" height="120"/></a>
