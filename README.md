@@ -32,4 +32,3 @@ Todas as atividades executadas estão documentadas no notebook.<hr>
 
 #### BADGE DE CONCLUSÃO DO PROJETO
 <a href="https://imgur.com/rvbXegn"><img src="https://i.imgur.com/rvbXegn.png" title="source: imgur.com" width="140" height="140"/></a>
-<a href="https://imgur.com/gallery/Iq7532c"><img src="https://imgur.com/gallery/Iq7532c" title="source: imgur.com" width="140" height="140"/></a>
